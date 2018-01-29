@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512500476 source:/media/ahmed/Education/courses/c/projects/C_projects/1. Simple C Programs/7. C Examples on Union/2. convert grade/2. convert grade/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

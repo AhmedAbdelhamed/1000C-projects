@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512501470 source:/media/ahmed/Education/courses/c/projects/C_projects/1. Simple C Programs/6. C Examples on day-to-day Activities/1. checck leap year/1. checck leap year/main.c
+	<stdio.h>
+	<stdlib.h>
+

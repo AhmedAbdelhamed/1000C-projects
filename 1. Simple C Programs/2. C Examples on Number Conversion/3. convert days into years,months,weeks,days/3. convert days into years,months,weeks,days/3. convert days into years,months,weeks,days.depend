@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512439210 source:/media/ahmed/Education/courses/c/projects/C_projects/1. Simple C Programs/2. C Examples on Number Conversion/3. convert days into years,months,weeks,days/3. convert days into years,months,weeks,days/main.c
+	<stdio.h>
+	<stdlib.h>
+

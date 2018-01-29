@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512715947 source:e:\courses\c\projects\c_projects\2. c programming examples on arrays\2. c examples on finding the largest and smallest numbers in an array\1. largest two numbers of given array\main.c
+	<stdio.h>
+	<stdlib.h>
+

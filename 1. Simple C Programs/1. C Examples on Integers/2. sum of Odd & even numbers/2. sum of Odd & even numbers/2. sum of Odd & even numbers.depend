@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512437620 source:/media/ahmed/Education/courses/c/projects/C_projects/1. Simple C Programs/1. C Examples on Integers/2. sum of Odd & even numbers/2. sum of Odd & even numbers/main.c
+	<stdio.h>
+	<stdlib.h>
+

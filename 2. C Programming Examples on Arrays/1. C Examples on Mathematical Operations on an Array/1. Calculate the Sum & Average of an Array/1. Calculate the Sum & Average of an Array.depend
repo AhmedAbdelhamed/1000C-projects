@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512714289 source:e:\courses\c\projects\c_projects\2. c programming examples on arrays\1. c examples on mathematical operations on an array\1. calculate the sum & average of an array\main.c
+	<stdio.h>
+	<stdlib.h>
+
